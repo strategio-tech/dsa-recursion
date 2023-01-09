@@ -57,4 +57,4 @@ What are the runtime implications of solving this problem as is described in Hin
 Following the suggestion in Hint #1, try traversing the input array and updating the three largest numbers if necessary by shifting them accordingly.
 </details>
 
-- Many of these problems have corresponding LeetCode challenges or similar. Google is your friend, but try the problem first.
+- Note: this is not the same problem as it is on LeetCode.
